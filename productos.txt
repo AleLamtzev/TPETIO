@@ -1,0 +1,3 @@
+for( Object index : listado) {
+Syso(((Vehiculo)index).getModelo());
+}
